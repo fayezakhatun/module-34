@@ -1,0 +1,54 @@
+[
+  {
+    "id": 1,
+    "name": "Basic",
+    "price": "$19/Month",
+    "description": "Perfect package for beginners starting their fitness journey.",
+    "features": [
+      "Full gym equipment access",
+      "Cardio training area",
+      "Locker facility",
+      "Free fitness assessment",
+      "Basic workout guidance",
+      "Access to beginner classes",
+      "Free WiFi access",
+      "Clean shower facility"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Standard",
+    "price": "$39/Month",
+    "popular": true,
+    "description": "Ideal for regular members who want better fitness results.",
+    "features": [
+      "Everything in Basic",
+      "Personal trainer support",
+      "Group workout classes",
+      "Diet consultation",
+      "Steam & shower access",
+      "Strength training programs",
+      "Monthly progress tracking",
+      "Yoga & Zumba classes",
+      "Priority locker access"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Premium",
+    "price": "$59/Month",
+    "description": "Advanced fitness experience with premium facilities.",
+    "features": [
+      "24/7 gym access",
+      "Private premium locker",
+      "Advanced fitness tracking",
+      "Weekly personal coaching",
+      "VIP lounge access",
+      "Recovery & stretching zone",
+      "Free protein shakes",
+      "Exclusive fitness workshops",
+      "Sauna & spa access",
+      "Premium support service"
+    ]
+  }
+]
